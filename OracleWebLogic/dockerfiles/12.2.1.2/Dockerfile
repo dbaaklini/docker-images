@@ -27,7 +27,7 @@
 # Pull base image
 # From the Oracle Registry
 # -------------------------
-FROM oracle/serverjre:8
+FROM dbaaklini/serverjre:8
 
 # Maintainer
 # ----------
